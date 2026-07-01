@@ -18,7 +18,7 @@
   <a href="https://arslan-sa.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/arslan-ansari-13bb17343" target="_blank">
+  <a href="https://www.linkedin.com/in/arslan-sa-13bb17343/?isSelfProfile=false" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ironman128956@gmail.com">
